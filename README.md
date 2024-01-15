@@ -4,13 +4,13 @@ Note: Some artifacts are present in the SWF's as they dont have supporting files
 
 ## Websites
 
-1. aiss - website for snowboard instructors - 2009
+1. [aiss](https://miksica.github.io/aiss/) - website for snowboard instructors - 2009
 
 > "Can't stop (can't stop), can't stop the scroll  
 > I won't stop (won't stop), won't stop the scroll, and go"  
 > → Junior Senior
 
-1. [carbochem](https://miksica.github.io/carbochem/) - website for construction company - 2010
+2. [carbochem](https://miksica.github.io/carbochem/) - website for construction company - 2010
 
 ## PhoneApps
 
@@ -19,12 +19,12 @@ Note: Some artifacts are present in the SWF's as they dont have supporting files
 ![Step 1](diceroller/step1.png)
 ![Step 2](diceroller/step2.png)
 
-1. [mafija](https://miksica.github.io/mafija/) - among us like game played in person where every person gets a hidden role, and than you need to expose who mafia is - 2011
+2. [mafija](https://miksica.github.io/mafija/) - among us like game played in person where every person gets a hidden role, and than you need to expose who mafia is - 2011
 
 ![Step 1](mafija/step1.png)
 ![Step 2](mafija/step2.png)
 ![Step 3](mafija/step3.png)
 
-1. [critnfumble](https://miksica.github.io/critnfumble/) - unfinished project for D&D, randomly generated outcomes of crits or fails - 2012
+3. [critnfumble](https://miksica.github.io/critnfumble/) - unfinished project for D&D, randomly generated outcomes of crits or fails - 2012
 
 ![Step1](critnfumble/step1.png)
