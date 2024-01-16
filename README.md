@@ -16,15 +16,15 @@ Note: Some artifacts are present in the SWF's as they dont have supporting files
 
 1. [diceroller](https://miksica.github.io/diceroller/) - dice rolling app for nokia 5580 using the stylus - 2010
 
-![Step 1](diceroller/step1.png)
-![Step 2](diceroller/step2.png)
+![Step 1](diceroller/step1.png =250x)
+![Step 2](diceroller/step2.png =250x)
 
 2. [mafija](https://miksica.github.io/mafija/) - among us like game played in person where every person gets a hidden role, and than you need to expose who mafia is - 2011
 
-![Step 1](mafija/step1.png)
-![Step 2](mafija/step2.png)
-![Step 3](mafija/step3.png)
+![Step 1](mafija/step1.png =250x)
+![Step 2](mafija/step2.png =250x)
+![Step 3](mafija/step3.png =250x)
 
 3. [critnfumble](https://miksica.github.io/critnfumble/) - unfinished project for D&D, randomly generated outcomes of crits or fails - 2012
 
-![Step1](critnfumble/step1.png)
+![Step1](critnfumble/step1.png =250x)
